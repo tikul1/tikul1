@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tikul1
-- 👀 I’m interested in node js , express , mongodb , pug, html, react , angular , vue , bootstrap, tailwind and css
+- 👀 I’m interested in node js , express , mongodb and react.
 - 🌱 I’m currently learning node js , express , mongodb and pug
 - 💞️ I’m looking to collaborate on node js
 - 📫 How to reach me instagram.com/tikul.x_
