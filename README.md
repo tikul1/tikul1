@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tikul1
+- 👋 Hi, I’m Hardik Parmar
 - 👀 I’m interested in node js , express , mongodb and react.
 - 🌱 I’m currently learning node js , express , mongodb and pug
 - 💞️ I’m looking to collaborate on node js
